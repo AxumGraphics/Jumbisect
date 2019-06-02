@@ -1,0 +1,10 @@
+0:abort
+1:_printf
+2:__Z20rayTriangleIntersectRK5Vec3fS1_S1_S1_S1_RfS2_S2_
+3:_test
+4:_intersectTriangles
+5:runPostSets
+6:__post_instantiate
+7:b0
+8:legalstub$_intersectTriangles
+9:legalstub$_test
